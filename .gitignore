@@ -1,2 +1,5 @@
 Makefile
 /build/
+yajl_iphone/build
+yajl_iphone/yajl_iphone.xcodeproj/*.mode1v3
+yajl_iphone/yajl_iphone.xcodeproj/*.pbxuser

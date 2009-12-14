@@ -1,408 +1,0 @@
-Tyajl_iphone
-v7
-r0
-t282523577.844508
-cCheck dependencies
-cProcessPCH /var/folders/CG/CG+ItgG3Fr84xbAbQmQyak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/yajl_iphone_Prefix-gmuacvclrrexgfdrvpoozjzbrnag/yajl_iphone_Prefix.pch.gch yajl_iphone_Prefix.pch normal i386 c com.apple.compilers.gcc.4_2
-cCompileC build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/Objects-normal/i386/yajl.o /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl.c normal i386 c com.apple.compilers.gcc.4_2
-cCompileC build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/Objects-normal/i386/yajl_alloc.o /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_alloc.c normal i386 c com.apple.compilers.gcc.4_2
-cCompileC build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/Objects-normal/i386/yajl_buf.o /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_buf.c normal i386 c com.apple.compilers.gcc.4_2
-cCompileC build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/Objects-normal/i386/yajl_encode.o /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_encode.c normal i386 c com.apple.compilers.gcc.4_2
-cCompileC build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/Objects-normal/i386/yajl_gen.o /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c normal i386 c com.apple.compilers.gcc.4_2
-cCompileC build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/Objects-normal/i386/yajl_lex.o /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_lex.c normal i386 c com.apple.compilers.gcc.4_2
-cCompileC build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/Objects-normal/i386/yajl_parser.o /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_parser.c normal i386 c com.apple.compilers.gcc.4_2
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
-c000000004B0478ED00000000000000EE
-t1258584301
-s238
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004ABDC952000000000027E880
-t1253951826
-s2615424
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004ABDC93F0000000000001355
-t1253951807
-s4949
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/assert.h
-c000000004748A1310000000000000DCB
-t1195942193
-s3531
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/ctype.h
-c000000004748A1320000000000002C3A
-t1195942194
-s11322
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/errno.h
-c000000004748A13100000000000003EB
-t1195942193
-s1003
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/math.h
-c000000004748A10600000000000004B7
-t1195942150
-s1207
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/stdio.h
-c000000004748A1330000000000003D1D
-t1195942195
-s15645
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/stdlib.h
-c000000004748A1330000000000002A79
-t1195942195
-s10873
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/string.h
-c000000004748A1330000000000001731
-t1195942195
-s5937
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/float.h
-c000000004748AF9500000000000014F4
-t1195945877
-s5364
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/limits.h
-c000000004748AF950000000000000C7E
-t1195945877
-s3198
-
-N/Volumes/FreeTime/SlapHappy/Support/yajl/src/api/yajl_common.h
-c000000004B26BF420000000000000C40
-t1260830530
-s3136
-
-N/Volumes/FreeTime/SlapHappy/Support/yajl/src/api/yajl_gen.h
-c000000004B26BF420000000000001C2C
-t1260830530
-s7212
-i<yajl/yajl_common.h>
-
-N/Volumes/FreeTime/SlapHappy/Support/yajl/src/api/yajl_parse.h
-c000000004B26BF420000000000002133
-t1260830530
-s8499
-i<yajl/yajl_common.h>
-
-N/Volumes/FreeTime/SlapHappy/Support/yajl/src/yajl_alloc.h
-c000000004B26BF4200000000000007BE
-t1260830530
-s1982
-i"api/yajl_common.h"
-
-N/Volumes/FreeTime/SlapHappy/Support/yajl/src/yajl_buf.h
-c000000004B26BF420000000000000A32
-t1260830530
-s2610
-i"api/yajl_common.h"
-i"yajl_alloc.h"
-
-N/Volumes/FreeTime/SlapHappy/Support/yajl/src/yajl_bytestack.h
-c000000004B26BF420000000000000C47
-t1260830530
-s3143
-i"api/yajl_common.h"
-
-N/Volumes/FreeTime/SlapHappy/Support/yajl/src/yajl_encode.h
-c000000004B26BF4200000000000007FE
-t1260830530
-s2046
-i"yajl_buf.h"
-i"api/yajl_gen.h"
-
-N/Volumes/FreeTime/SlapHappy/Support/yajl/src/yajl_lex.h
-c000000004B26BF420000000000001388
-t1260830530
-s5000
-i"api/yajl_common.h"
-
-N/Volumes/FreeTime/SlapHappy/Support/yajl/src/yajl_parser.h
-c000000004B26BF420000000000000B78
-t1260830530
-s2936
-i"api/yajl_parse.h"
-i"yajl_bytestack.h"
-i"yajl_buf.h"
-
-N/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl.c
-c000000004B26BF420000000000001339
-t1260830530
-s4921
-i"api/yajl_parse.h"
-i"yajl_lex.h"
-i"yajl_parser.h"
-i"yajl_alloc.h"
-i<stdlib.h>
-i<string.h>
-i<assert.h>
-
-N/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_alloc.c
-c000000004B26BF4200000000000008A4
-t1260830530
-s2212
-i"yajl_alloc.h"
-i<stdlib.h>
-
-N/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_buf.c
-c000000004B26BF420000000000000CE1
-t1260830530
-s3297
-i"yajl_buf.h"
-i<assert.h>
-i<stdlib.h>
-i<string.h>
-
-N/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_encode.c
-c000000004B26BF420000000000001A22
-t1260830530
-s6690
-i"yajl_encode.h"
-i<assert.h>
-i<stdlib.h>
-i<string.h>
-i<stdio.h>
-
-N/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c
-c000000004B26BF4200000000000026A7
-t1260830530
-s9895
-i"api/yajl_gen.h"
-i"yajl_buf.h"
-i"yajl_encode.h"
-i<stdlib.h>
-i<string.h>
-i<stdio.h>
-i<math.h>
-i<float.h>
-
-N/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_lex.c
-c000000004B26BF4200000000000064DA
-t1260830530
-s25818
-i"yajl_lex.h"
-i"yajl_buf.h"
-i<stdlib.h>
-i<stdio.h>
-i<assert.h>
-i<string.h>
-
-N/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_parser.c
-c000000004B26BF420000000000004E4B
-t1260830530
-s20043
-i"yajl_lex.h"
-i"yajl_parser.h"
-i"yajl_encode.h"
-i"yajl_bytestack.h"
-i<stdlib.h>
-i<limits.h>
-i<errno.h>
-i<stdio.h>
-i<string.h>
-i<ctype.h>
-i<assert.h>
-i<math.h>
-
-N/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/Debug-iphonesimulator/libyajl_iphone.a
-t2
-s0
-
-N/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/Objects-normal/i386/yajl.o
-t2
-s0
-
-N/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/Objects-normal/i386/yajl_alloc.o
-t1260830777
-s3644
-
-N/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/Objects-normal/i386/yajl_buf.o
-t1260830777
-s6240
-
-N/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/Objects-normal/i386/yajl_encode.o
-t2
-s0
-
-N/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/Objects-normal/i386/yajl_gen.o
-t2
-s0
-
-N/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/Objects-normal/i386/yajl_iphone.LinkFileList
-c000000004B26C0380000000000000410
-t1260830776
-s1040
-
-N/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/Objects-normal/i386/yajl_lex.o
-t1260830777
-s19868
-
-N/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/Objects-normal/i386/yajl_parser.o
-t2
-s0
-
-N/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/yajl_iphone_Prefix.pch
-c000000004B26C00400000000000000BC
-t1260830724
-s188
-i<Foundation/Foundation.h>
-
-N/var/folders/CG/CG+ItgG3Fr84xbAbQmQyak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/yajl_iphone_Prefix-gmuacvclrrexgfdrvpoozjzbrnag/yajl_iphone_Prefix.pch.gch
-t1260830777
-s2142576
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies282523576#282523576#0(0"0(0#1#0"31244212048494624#0"0#
-
-CCompileC build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/Objects-normal/i386/yajl.o /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl.c normal i386 c com.apple.compilers.gcc.4_2
-s282523577.258292
-e282523577.501659
-r0
-xCompileC
-xbuild/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/Objects-normal/i386/yajl.o
-x/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.gcc.4_2
-oIn file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl.c:33:
-o/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h:38:30: error: yajl/yajl_common.h: No such file or directory
-oIn file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl.c:33:
-o/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h:62: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_status_to_string'
-o/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h:130: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_alloc'
-o/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h:136: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_free'
-o/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h:143: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_parse'
-o/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h:168: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_get_error'
-o/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h:184: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_get_bytes_consumed'
-o/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h:187: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_free_error'
-lSLF07#2@74"Compile /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl.c282523577#282523577#0(1460"In file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl.c:33:/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h:38:30: error: yajl/yajl_common.h: No such file or directoryIn file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl.c:33:/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h:62: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_status_to_string'/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h:130: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_alloc'/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h:136: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_free'/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h:143: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_parse'/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h:168: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_get_error'/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h:184: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_get_bytes_consumed'/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h:187: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_free_error'8(4@45"Yajl/yajl_common.h: No such file or directory282523577#93#137#2(7@88"In file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl.c282523577#18446744073709551615#0#0(6@66"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl.c282523330#33#0#33#0#0"0(13@125"Yajl/yajl_common.h: No such file or directory in /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h282523577#18446744073709551615#0#0(6@76"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h282523330#38#0#38#0#0"0(6@76"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h282523330#38#0#38#0#28"*: No such file or directory0(4@79"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_status_to_string'282523577#323#168#2(7@88"In file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl.c282523577#18446744073709551615#0#0(6@66"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl.c282523330#33#0#33#0#0"0(13@159"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_status_to_string' in /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h282523577#18446744073709551615#0#0(6@76"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h282523330#62#0#62#0#0"0(6@76"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h282523330#62#0#62#0#19"expected * before *0(4@68"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_alloc'282523577#491#158#2(7@88"In file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl.c282523577#18446744073709551615#0#0(6@66"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl.c282523330#33#0#33#0#0"0(13@148"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_alloc' in /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h282523577#18446744073709551615#0#0(6@76"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h282523330#130#0#130#0#0"0(6@76"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h282523330#130#0#130#0#19"expected * before *0(4@67"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_free'282523577#649#157#2(7@88"In file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl.c282523577#18446744073709551615#0#0(6@66"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl.c282523330#33#0#33#0#0"0(13@147"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_free' in /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h282523577#18446744073709551615#0#0(6@76"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h282523330#136#0#136#0#0"0(6@76"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h282523330#136#0#136#0#19"expected * before *0(4@68"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_parse'282523577#806#158#2(7@88"In file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl.c282523577#18446744073709551615#0#0(6@66"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl.c282523330#33#0#33#0#0"0(13@148"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_parse' in /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h282523577#18446744073709551615#0#0(6@76"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h282523330#143#0#143#0#0"0(6@76"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h282523330#143#0#143#0#19"expected * before *0(4@72"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_get_error'282523577#964#162#2(7@88"In file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl.c282523577#18446744073709551615#0#0(6@66"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl.c282523330#33#0#33#0#0"0(13@152"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_get_error' in /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h282523577#18446744073709551615#0#0(6@76"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h282523330#168#0#168#0#0"0(6@76"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h282523330#168#0#168#0#19"expected * before *0(4@81"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_get_bytes_consumed'282523577#1126#171#2(7@88"In file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl.c282523577#18446744073709551615#0#0(6@66"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl.c282523330#33#0#33#0#0"0(13@161"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_get_bytes_consumed' in /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h282523577#18446744073709551615#0#0(6@76"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h282523330#184#0#184#0#0"0(6@76"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h282523330#184#0#184#0#19"expected * before *0(4@73"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_free_error'282523577#1297#163#2(7@88"In file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl.c282523577#18446744073709551615#0#0(6@66"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl.c282523330#33#0#33#0#0"0(13@153"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_free_error' in /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h282523577#18446744073709551615#0#0(6@76"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h282523330#187#0#187#0#0"0(6@76"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h282523330#187#0#187#0#19"expected * before *0(0#0#66"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl.c7525630835897819136#2151"    cd /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/yajl_iphone-generated-files.hmap -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/yajl_iphone-own-target-headers.hmap -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/yajl_iphone-all-target-headers.hmap -iquote /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/yajl_iphone-project-headers.hmap -F/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/Debug-iphonesimulator -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/Debug-iphonesimulator/include -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/DerivedSources/i386 -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/DerivedSources -include /var/folders/CG/CG+ItgG3Fr84xbAbQmQyak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/yajl_iphone_Prefix-gmuacvclrrexgfdrvpoozjzbrnag/yajl_iphone_Prefix.pch -c /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl.c -o /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/Objects-normal/i386/yajl.o1#
-
-CCompileC build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/Objects-normal/i386/yajl_alloc.o /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_alloc.c normal i386 c com.apple.compilers.gcc.4_2
-s282523577.260077
-e282523577.527265
-r1
-xCompileC
-xbuild/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/Objects-normal/i386/yajl_alloc.o
-x/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_alloc.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@80"Compile /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_alloc.c282523577#282523577#0(0"0(0#0#72"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_alloc.c4300885448#2163"    cd /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/yajl_iphone-generated-files.hmap -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/yajl_iphone-own-target-headers.hmap -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/yajl_iphone-all-target-headers.hmap -iquote /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/yajl_iphone-project-headers.hmap -F/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/Debug-iphonesimulator -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/Debug-iphonesimulator/include -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/DerivedSources/i386 -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/DerivedSources -include /var/folders/CG/CG+ItgG3Fr84xbAbQmQyak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/yajl_iphone_Prefix-gmuacvclrrexgfdrvpoozjzbrnag/yajl_iphone_Prefix.pch -c /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_alloc.c -o /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/Objects-normal/i386/yajl_alloc.o0#
-
-CCompileC build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/Objects-normal/i386/yajl_buf.o /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_buf.c normal i386 c com.apple.compilers.gcc.4_2
-s282523577.501765
-e282523577.648159
-r1
-xCompileC
-xbuild/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/Objects-normal/i386/yajl_buf.o
-x/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_buf.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@78"Compile /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_buf.c282523577#282523577#0(0"0(0#0#70"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_buf.c4300885448#2159"    cd /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/yajl_iphone-generated-files.hmap -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/yajl_iphone-own-target-headers.hmap -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/yajl_iphone-all-target-headers.hmap -iquote /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/yajl_iphone-project-headers.hmap -F/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/Debug-iphonesimulator -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/Debug-iphonesimulator/include -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/DerivedSources/i386 -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/DerivedSources -include /var/folders/CG/CG+ItgG3Fr84xbAbQmQyak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/yajl_iphone_Prefix-gmuacvclrrexgfdrvpoozjzbrnag/yajl_iphone_Prefix.pch -c /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_buf.c -o /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/Objects-normal/i386/yajl_buf.o0#
-
-CCompileC build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/Objects-normal/i386/yajl_encode.o /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_encode.c normal i386 c com.apple.compilers.gcc.4_2
-s282523577.527381
-e282523577.610934
-r0
-xCompileC
-xbuild/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/Objects-normal/i386/yajl_encode.o
-x/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_encode.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.gcc.4_2
-oIn file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_encode.h:37,
-o                 from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_encode.c:33:
-o/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h:38:30: error: yajl/yajl_common.h: No such file or directory
-lSLF07#2@81"Compile /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_encode.c282523577#282523577#0(335"In file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_encode.h:37,                 from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_encode.c:33:/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h:38:30: error: yajl/yajl_common.h: No such file or directory1(4@45"Yajl/yajl_common.h: No such file or directory282523577#200#135#3(7@95"In file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_encode.c282523577#18446744073709551615#0#0(6@73"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_encode.c282523330#33#0#33#0#0"0(7@95"In file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_encode.h282523577#18446744073709551615#0#0(6@73"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_encode.h282523330#37#0#37#0#0"0(13@123"Yajl/yajl_common.h: No such file or directory in /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523577#18446744073709551615#0#0(6@74"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523330#38#0#38#0#0"0(6@74"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523330#38#0#38#0#28"*: No such file or directory0(0#0#73"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_encode.c4300885448#2165"    cd /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/yajl_iphone-generated-files.hmap -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/yajl_iphone-own-target-headers.hmap -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/yajl_iphone-all-target-headers.hmap -iquote /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/yajl_iphone-project-headers.hmap -F/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/Debug-iphonesimulator -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/Debug-iphonesimulator/include -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/DerivedSources/i386 -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/DerivedSources -include /var/folders/CG/CG+ItgG3Fr84xbAbQmQyak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/yajl_iphone_Prefix-gmuacvclrrexgfdrvpoozjzbrnag/yajl_iphone_Prefix.pch -c /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_encode.c -o /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/Objects-normal/i386/yajl_encode.o1#
-
-CCompileC build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/Objects-normal/i386/yajl_gen.o /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c normal i386 c com.apple.compilers.gcc.4_2
-s282523577.611042
-e282523577.701291
-r0
-xCompileC
-xbuild/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/Objects-normal/i386/yajl_gen.o
-x/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.gcc.4_2
-oIn file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c:33:
-o/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h:38:30: error: yajl/yajl_common.h: No such file or directory
-oIn file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c:33:
-o/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h:97: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_alloc'
-o/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h:117: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_alloc2'
-o/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h:123: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_free'
-o/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h:125: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_integer'
-o/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h:129: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_double'
-o/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h:130: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_number'
-o/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h:133: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_string'
-o/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h:136: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_null'
-o/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h:137: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_bool'
-o/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h:138: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_map_open'
-o/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h:139: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_map_close'
-o/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h:140: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_array_open'
-o/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h:141: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_array_close'
-o/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h:146: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_get_buf'
-o/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h:153: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_clear'
-o/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c: In function 'yajl_gen_alloc':
-o/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c:69: warning: implicit declaration of function 'yajl_gen_alloc2'
-o/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c:69: warning: return makes pointer from integer without a cast
-o/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c: At top level:
-o/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c:77: error: conflicting types for 'yajl_gen_alloc2'
-o/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c:69: error: previous implicit declaration of 'yajl_gen_alloc2' was here
-lSLF07#2@78"Compile /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523577#282523577#0(3471"In file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c:33:/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h:38:30: error: yajl/yajl_common.h: No such file or directoryIn file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c:33:/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h:97: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_alloc'/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h:117: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_alloc2'/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h:123: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_free'/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h:125: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_integer'/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h:129: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_double'/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h:130: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_number'/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h:133: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_string'/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h:136: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_null'/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h:137: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_bool'/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h:138: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_map_open'/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h:139: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_map_close'/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h:140: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_array_open'/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h:141: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_array_close'/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h:146: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_get_buf'/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h:153: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_clear'/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c: In function 'yajl_gen_alloc':/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c:69: warning: implicit declaration of function 'yajl_gen_alloc2'/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c:69: warning: return makes pointer from integer without a cast/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c: At top level:/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c:77: error: conflicting types for 'yajl_gen_alloc2'/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c:69: error: previous implicit declaration of 'yajl_gen_alloc2' was here21(4@45"Yajl/yajl_common.h: No such file or directory282523577#97#135#2(7@92"In file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523577#18446744073709551615#0#0(6@70"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523330#33#0#33#0#0"0(13@123"Yajl/yajl_common.h: No such file or directory in /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523577#18446744073709551615#0#0(6@74"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523330#38#0#38#0#0"0(6@74"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523330#38#0#38#0#28"*: No such file or directory0(4@72"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_alloc'282523577#329#159#2(7@92"In file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523577#18446744073709551615#0#0(6@70"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523330#33#0#33#0#0"0(13@150"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_alloc' in /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523577#18446744073709551615#0#0(6@74"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523330#97#0#97#0#0"0(6@74"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523330#97#0#97#0#19"expected * before *0(4@73"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_alloc2'282523577#488#161#2(7@92"In file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523577#18446744073709551615#0#0(6@70"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523330#33#0#33#0#0"0(13@151"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_alloc2' in /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523577#18446744073709551615#0#0(6@74"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523330#117#0#117#0#0"0(6@74"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523330#117#0#117#0#19"expected * before *0(4@71"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_free'282523577#649#159#2(7@92"In file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523577#18446744073709551615#0#0(6@70"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523330#33#0#33#0#0"0(13@149"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_free' in /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523577#18446744073709551615#0#0(6@74"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523330#123#0#123#0#0"0(6@74"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523330#123#0#123#0#19"expected * before *0(4@74"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_integer'282523577#808#162#2(7@92"In file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523577#18446744073709551615#0#0(6@70"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523330#33#0#33#0#0"0(13@152"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_integer' in /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523577#18446744073709551615#0#0(6@74"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523330#125#0#125#0#0"0(6@74"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523330#125#0#125#0#19"expected * before *0(4@73"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_double'282523577#970#161#2(7@92"In file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523577#18446744073709551615#0#0(6@70"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523330#33#0#33#0#0"0(13@151"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_double' in /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523577#18446744073709551615#0#0(6@74"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523330#129#0#129#0#0"0(6@74"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523330#129#0#129#0#19"expected * before *0(4@73"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_number'282523577#1131#161#2(7@92"In file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523577#18446744073709551615#0#0(6@70"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523330#33#0#33#0#0"0(13@151"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_number' in /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523577#18446744073709551615#0#0(6@74"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523330#130#0#130#0#0"0(6@74"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523330#130#0#130#0#19"expected * before *0(4@73"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_string'282523577#1292#161#2(7@92"In file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523577#18446744073709551615#0#0(6@70"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523330#33#0#33#0#0"0(13@151"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_string' in /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523577#18446744073709551615#0#0(6@74"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523330#133#0#133#0#0"0(6@74"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523330#133#0#133#0#19"expected * before *0(4@71"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_null'282523577#1453#159#2(7@92"In file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523577#18446744073709551615#0#0(6@70"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523330#33#0#33#0#0"0(13@149"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_null' in /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523577#18446744073709551615#0#0(6@74"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523330#136#0#136#0#0"0(6@74"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523330#136#0#136#0#19"expected * before *0(4@71"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_bool'282523577#1612#159#2(7@92"In file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523577#18446744073709551615#0#0(6@70"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523330#33#0#33#0#0"0(13@149"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_bool' in /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523577#18446744073709551615#0#0(6@74"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523330#137#0#137#0#0"0(6@74"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523330#137#0#137#0#19"expected * before *0(4@75"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_map_open'282523577#1771#163#2(7@92"In file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523577#18446744073709551615#0#0(6@70"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523330#33#0#33#0#0"0(13@153"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_map_open' in /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523577#18446744073709551615#0#0(6@74"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523330#138#0#138#0#0"0(6@74"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523330#138#0#138#0#19"expected * before *0(4@76"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_map_close'282523577#1934#164#2(7@92"In file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523577#18446744073709551615#0#0(6@70"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523330#33#0#33#0#0"0(13@154"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_map_close' in /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523577#18446744073709551615#0#0(6@74"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523330#139#0#139#0#0"0(6@74"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523330#139#0#139#0#19"expected * before *0(4@77"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_array_open'282523577#2098#165#2(7@92"In file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523577#18446744073709551615#0#0(6@70"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523330#33#0#33#0#0"0(13@155"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_array_open' in /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523577#18446744073709551615#0#0(6@74"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523330#140#0#140#0#0"0(6@74"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523330#140#0#140#0#19"expected * before *0(4@78"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_array_close'282523577#2263#166#2(7@92"In file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523577#18446744073709551615#0#0(6@70"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523330#33#0#33#0#0"0(13@156"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_array_close' in /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523577#18446744073709551615#0#0(6@74"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523330#141#0#141#0#0"0(6@74"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523330#141#0#141#0#19"expected * before *0(4@74"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_get_buf'282523577#2429#162#2(7@92"In file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523577#18446744073709551615#0#0(6@70"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523330#33#0#33#0#0"0(13@152"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_get_buf' in /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523577#18446744073709551615#0#0(6@74"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523330#146#0#146#0#0"0(6@74"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523330#146#0#146#0#19"expected * before *0(4@72"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_clear'282523577#2591#160#2(7@92"In file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523577#18446744073709551615#0#0(6@70"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523330#33#0#33#0#0"0(13@150"Expected '=', ',', ';', 'asm' or '__attribute__' before 'yajl_gen_clear' in /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523577#18446744073709551615#0#0(6@74"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523330#153#0#153#0#0"0(6@74"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_gen.h282523330#153#0#153#0#19"expected * before *0(22@50"Implicit declaration of function 'yajl_gen_alloc2'282523577#2853#135#0(6@70"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523330#69#0#69#0#36"implicit declaration of function '*'0(22@48"Return makes pointer from integer without a cast282523577#2988#133#0(6@70"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523330#69#0#69#0#0"0(23@13"At top level:282523577#3121#86#0(6@70"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523330#0#0#0#0#0"0(4@39"Conflicting types for 'yajl_gen_alloc2'282523577#3207#122#0(6@70"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523330#77#0#77#0#25"conflicting types for '*'0(13@59"Previous implicit declaration of 'yajl_gen_alloc2' was here282523577#3329#142#0(6@70"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c282523330#69#0#69#0#45"previous implicit declaration of '*' was here0(0#0#70"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c4300885448#2159"    cd /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/yajl_iphone-generated-files.hmap -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/yajl_iphone-own-target-headers.hmap -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/yajl_iphone-all-target-headers.hmap -iquote /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/yajl_iphone-project-headers.hmap -F/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/Debug-iphonesimulator -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/Debug-iphonesimulator/include -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/DerivedSources/i386 -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/DerivedSources -include /var/folders/CG/CG+ItgG3Fr84xbAbQmQyak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/yajl_iphone_Prefix-gmuacvclrrexgfdrvpoozjzbrnag/yajl_iphone_Prefix.pch -c /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_gen.c -o /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/Objects-normal/i386/yajl_gen.o1#
-
-CCompileC build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/Objects-normal/i386/yajl_lex.o /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_lex.c normal i386 c com.apple.compilers.gcc.4_2
-s282523577.648462
-e282523577.765673
-r1
-xCompileC
-xbuild/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/Objects-normal/i386/yajl_lex.o
-x/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_lex.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@78"Compile /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_lex.c282523577#282523577#0(0"0(0#0#70"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_lex.c4300885448#2159"    cd /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/yajl_iphone-generated-files.hmap -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/yajl_iphone-own-target-headers.hmap -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/yajl_iphone-all-target-headers.hmap -iquote /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/yajl_iphone-project-headers.hmap -F/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/Debug-iphonesimulator -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/Debug-iphonesimulator/include -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/DerivedSources/i386 -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/DerivedSources -include /var/folders/CG/CG+ItgG3Fr84xbAbQmQyak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/yajl_iphone_Prefix-gmuacvclrrexgfdrvpoozjzbrnag/yajl_iphone_Prefix.pch -c /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_lex.c -o /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/Objects-normal/i386/yajl_lex.o0#
-
-CCompileC build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/Objects-normal/i386/yajl_parser.o /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_parser.c normal i386 c com.apple.compilers.gcc.4_2
-s282523577.701396
-e282523577.844413
-r0
-xCompileC
-xbuild/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/Objects-normal/i386/yajl_parser.o
-x/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_parser.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.gcc.4_2
-oIn file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_parser.h:36,
-o                 from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_parser.c:34:
-o/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h:38:30: error: yajl/yajl_common.h: No such file or directory
-lSLF07#2@81"Compile /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_parser.c282523577#282523577#0(337"In file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_parser.h:36,                 from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_parser.c:34:/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h:38:30: error: yajl/yajl_common.h: No such file or directory1(4@45"Yajl/yajl_common.h: No such file or directory282523577#200#137#3(7@95"In file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_parser.c282523577#18446744073709551615#0#0(6@73"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_parser.c282523330#34#0#34#0#0"0(7@95"In file included from /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_parser.h282523577#18446744073709551615#0#0(6@73"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_parser.h282523330#36#0#36#0#0"0(13@125"Yajl/yajl_common.h: No such file or directory in /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h282523577#18446744073709551615#0#0(6@76"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h282523330#38#0#38#0#0"0(6@76"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/api/yajl_parse.h282523330#38#0#38#0#28"*: No such file or directory0(0#0#73"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_parser.c4300885448#2165"    cd /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/yajl_iphone-generated-files.hmap -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/yajl_iphone-own-target-headers.hmap -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/yajl_iphone-all-target-headers.hmap -iquote /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/yajl_iphone-project-headers.hmap -F/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/Debug-iphonesimulator -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/Debug-iphonesimulator/include -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/DerivedSources/i386 -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/DerivedSources -include /var/folders/CG/CG+ItgG3Fr84xbAbQmQyak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/yajl_iphone_Prefix-gmuacvclrrexgfdrvpoozjzbrnag/yajl_iphone_Prefix.pch -c /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/../src/yajl_parser.c -o /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/Objects-normal/i386/yajl_parser.o1#
-
-CLibtool /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/Debug-iphonesimulator/libyajl_iphone.a normal i386
-r0
-
-CProcessPCH /var/folders/CG/CG+ItgG3Fr84xbAbQmQyak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/yajl_iphone_Prefix-gmuacvclrrexgfdrvpoozjzbrnag/yajl_iphone_Prefix.pch.gch yajl_iphone_Prefix.pch normal i386 c com.apple.compilers.gcc.4_2
-s282523576.727327
-e282523577.258109
-r1
-xProcessPCH
-x/var/folders/CG/CG+ItgG3Fr84xbAbQmQyak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/yajl_iphone_Prefix-gmuacvclrrexgfdrvpoozjzbrnag/yajl_iphone_Prefix.pch.gch
-xyajl_iphone_Prefix.pch
-xnormal
-xi386
-xc
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@33"Precompile yajl_iphone_Prefix.pch282523576#282523577#0(0"0(0#0#75"/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/yajl_iphone_Prefix.pch7023697266747991040#2018"    cd /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/yajl_iphone-generated-files.hmap -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/yajl_iphone-own-target-headers.hmap -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/yajl_iphone-all-target-headers.hmap -iquote /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/yajl_iphone-project-headers.hmap -F/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/Debug-iphonesimulator -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/Debug-iphonesimulator/include -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/DerivedSources/i386 -I/Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/build/yajl_iphone.build/Debug-iphonesimulator/yajl_iphone.build/DerivedSources -c /Volumes/FreeTime/SlapHappy/Support/yajl/yajl_iphone/yajl_iphone_Prefix.pch -o /var/folders/CG/CG+ItgG3Fr84xbAbQmQyak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/yajl_iphone_Prefix-gmuacvclrrexgfdrvpoozjzbrnag/yajl_iphone_Prefix.pch.gch0#
-
